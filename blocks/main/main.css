@@ -1,0 +1,7 @@
+.main {
+  /* иначе блок tehniques уплывает влево */
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
